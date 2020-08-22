@@ -22,8 +22,9 @@ const Nav = () => (
       <h2>About</h2>
       <p>Hi, my name is Andrew and my goal every day is to leave things better than I found them.
         I am a <a href="https://www.wgtn.ac.nz/ecs">VUW Software Engineering</a> graduate working as
-        an Operations Scheduling Engineer at <a href="https://www.dxc.technology/">DXC Technology</a>. 
-        Besides building software that is as polished behind-the-scenes as it is out front, I have a keen interest in cloud technology and in driving agile and DevOps ways of working.
+        an Operations Scheduling Engineer at <a href="https://www.dxc.technology/">DXC Technology</a>.
+        Besides building software that is as polished behind-the-scenes as it is out front,
+        I have a keen interest in cloud technology and in driving agile and DevOps ways of working.
       </p>
       <ul className="actions">
         <li>
