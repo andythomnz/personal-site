@@ -1,7 +1,7 @@
 const data = [
   {
     path: '/',
-    label: 'Michael D\'Angelo',
+    label: 'Andrew Thompson',
     index: true,
   },
   {
@@ -9,8 +9,8 @@ const data = [
     label: 'About',
   },
   {
-    path: '/resume',
-    label: 'Resume',
+    path: '/cv',
+    label: 'Curriculum Vitae',
   },
   {
     path: '/projects',

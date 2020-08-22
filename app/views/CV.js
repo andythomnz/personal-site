@@ -23,13 +23,13 @@ const sections = [
   'References',
 ];
 
-const Resume = () => (
+const CV = () => (
   <Main>
-    <Helmet title="Resume" />
+    <Helmet title="Curriculum Vitae" />
     <article className="post" id="resume">
       <header>
         <div className="title">
-          <h2><Link to="resume">Resume</Link></h2>
+          <h2><Link to="cv">Curriculum Vitae</Link></h2>
           <div className="link-container">
             {sections.map((sec) => (
               <h4 key={sec}>
@@ -49,4 +49,4 @@ const Resume = () => (
   </Main>
 );
 
-export default Resume;
+export default CV;
