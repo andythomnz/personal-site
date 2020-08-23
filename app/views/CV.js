@@ -18,8 +18,8 @@ import { skills, categories } from '../data/resume/skills';
 const sections = [
   'Education',
   'Experience',
-  'Skills',
   'Courses',
+  'Skills',
   'References',
 ];
 
@@ -41,8 +41,8 @@ const CV = () => (
       </header>
       <Education data={degrees} />
       <Experience data={positions} />
-      <Skills skills={skills} categories={categories} />
       <Courses data={courses} />
+      <Skills skills={skills} categories={categories} />
       <References />
 
     </article>
