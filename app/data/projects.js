@@ -1,42 +1,45 @@
-// TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
-    link: '/projects/nearestdollar/',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
-    desc: 'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+    title: 'What\'s For Dinner?',
+    subtitle: '',
+    link: 'https://github.com/andythomnz/Whats-For-Dinner',
+    image: '/images/projects/WhatsForDinnerpng.png',
+    date: '2018-09-15',
+    desc: 'Have you ever been hungry but had difficulty choosing what food to eat? '
+     + 'This app allows users to maintain a list of their favourite meals, '
+     + 'and then will make “random” suggestions to the user of which meal they should eat.',
+  },
+  {
+    title: 'ANZ Championship Netball Visualisation',
+    subtitle: '',
+    link: 'https://github.com/andythomnz/D3-Data-Visualisation-ANZ-Championship-Netball',
+    image: '/images/projects/ANZ-Champ.png',
+    date: '2019-06-01',
+    desc: 'Three different visualisations of the same amalgamated ANZ Championship dataset. '
+      + 'Each of the visualisations aims to provide users with a different perspective of the match results.',
+  },
+  {
+    title: 'Fake News',
+    subtitle: '2018 Summer of Tech Create Camp Hackathon',
+    link: 'https://github.com/KimPaige/Fake-News',
+    image: '/images/projects/FakeNews.png',
+    date: '2018-09-08',
+    desc: 'Millennials do not have the time or inclination to read traditional news articles. '
+      + 'But what if they could engage with the news quickly and effortlessly on a fun '
+      + 'platform that fits straight into their everyday lives? '
+      + 'Fake News curates the latest and most outrageous comments posted on Stuff.co.nz news articles '
+      + 'and uses machine learning technology to understand the tone of what commenters are saying. '
+      + 'Using this knowledge, Fake News summarises the current state of the nation, and effectively '
+      + 'communicates this via fun phrases and colour-coordination.',
   }, {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
-    desc: 'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
-  }, {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
-    desc: 'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
-  }, {
-    title: 'Cat Detector',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    link: '/project/catdetector/',
-    image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
-    desc: 'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-     + 'Over 60,000 cats were classified before server bills made the project too expensive '
-     + 'to continue hosting.',
+    title: 'UN Global Development Visualisation',
+    subtitle: '',
+    link: 'https://github.com/andythomnz/D3-Data-Visualisation-Global-Development',
+    image: '/images/projects/Glob-Development.png',
+    date: '2019-08-01',
+    desc: 'The United Nations Sustainable Development Goals data set provides information '
+      + 'about a variety of sustainability and developmental metrics for individual countries over the past 20 years. '
+      + 'The visualisation system consists of two separate but related visualisations, both of which are developed using Mike Bostock’s Data-Driven Documents (D3) library',
   },
 ];
 
