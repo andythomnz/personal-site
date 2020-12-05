@@ -53,9 +53,8 @@ const CV = () => (
       <Education data={degrees} />
       <Experience data={positions} />
       {certificationsPresent && <Certifications data={certifications} />}
-      <Skills skills={skills} categories={categories} />
       <Courses data={courses} />
-      <Skills skills={skills} categories={categories} />
+      {/* <Skills skills={skills} categories={categories} /> */}
       <References />
 
     </article>
