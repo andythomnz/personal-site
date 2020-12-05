@@ -1,8 +1,20 @@
 const positions = [{
+  company: 'APLYID',
+  position: 'Software Engineer',
+  link: 'https://www.aplyid.com/',
+  daterange: 'November 2020 - Present',
+  points: [
+    'Full-stack web application development.',
+    'Ruby on Rails and Postgres backend.',
+    'Angular and Vue.js frontend.',
+    'Test automation using RSpec, Capybara & Selenium.',
+    'Test Driven Development.',
+  ],
+}, {
   company: 'DXC Technology',
   position: 'Operations Scheduling Engineer',
   link: 'https://dxc.technology',
-  daterange: 'Feb 2020 - Present',
+  daterange: 'Feb 2020 - November 2020',
   points: [
     'Streamlining and automation of operational activities.',
     'Enablement of increased agility while reducing risk and increasing business value.',

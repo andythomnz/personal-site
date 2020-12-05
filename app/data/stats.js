@@ -10,7 +10,7 @@ const data = {
   },
   location: {
     label: 'Current city',
-    value: 'Wellington, NZ',
+    value: 'Auckland, NZ',
   },
   location2: {
     label: 'Origin city',

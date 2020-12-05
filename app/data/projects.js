@@ -1,5 +1,15 @@
 const data = [
   {
+    title: 'GitHub Search',
+    subtitle: '',
+    link: 'https://github.com/andythomnz/GitHubSearch',
+    image: '/images/projects/GitHubSearch.png',
+    date: '2020-10-14',
+    desc: 'Basic Vue.js search engine application for searching GitHub. '
+     + 'Consumes their Search API for searching users and topics. '
+     + 'Implements server-side pagination & sorting.',
+  },
+  {
     title: 'What\'s For Dinner?',
     subtitle: '',
     link: 'https://github.com/andythomnz/Whats-For-Dinner',
