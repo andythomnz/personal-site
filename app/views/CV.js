@@ -21,7 +21,7 @@ const sections = [
   'Education',
   'Experience',
   'Courses',
-  'Skills',
+  // 'Skills',
   'References',
 ];
 
