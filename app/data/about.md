@@ -1,75 +1,54 @@
 
 #### Intro
-I am a co-founder and the CTO of [Arthena](https://arthena.com) where I work on engineering infrastructure and build tools to price fine art. My primary job functions are as a data scientist and software engineer.
-<br>
-I am available to consult on interesting projects. I am particularly interested in social impact, education, inclusivity, and space. I enjoy advising companies and may even be available for pro-bono work depending on the time commitment and the project. If you would like to arrange a meeting, I am based in New York but travel to the San Francisco Bay Area frequently.
+I am a Software Engineer who not only wants to produce the best code possible, but is also very interested in studying the cultural practices & mindsets that enable high-performing product teams to consistently deliver state of the art software. On a day to day basis I work as a Developer on a SaaS product at a small company and after-hours I closely follow the world of Agile, DevOps and Test Automation to better understand how we can out-perform the competition and beat them to the market. 
 <br><br>
+
 #### Currently
-At Arthena I have learned how to build teams and manage people, build relationships with customers, sell enterprise products, and build on-line predictive models for production environments. I've also learned how to build and maintain large web applications (see [arthena.com](https://arthena.com)).
+I am working at [APLYiD](https://www.aplyid.com/) on their SaaS product which revolutionises client onboarding in the era of Know Your Customer, Anti-Money Laundering and Countering Financing of Terrorism. 
 <br><br>
+
 #### Some history
 
-- My parents put a computer in my bedroom in 1993 when I was 3. It was an old Tandy that ran MS-DOS. My favorite games were Street Rod 2, Wolfenstein 3D, and Tom and Jerry. It had a mechanical keyboard and a turbo button. To this day, I still don't know what pressing the turbo button really did.
-
-- We subscribed to AOL in 1995. I still remember installing it from a floppy disk onto our brand new Packard Bell. It took years for me to send my first email.
-
-- In the summer of 1996, my uncle purchased [MegaRace](https://en.wikipedia.org/wiki/MegaRace) from [Media Play](https://en.wikipedia.org/wiki/Media_Play) and installed it on my mom's work computer. I might have endangered her business by using her computer too much.
-
-- At 7, I discovered the mini-games hidden in Microsoft Office. I also beat Minesweeper on expert for the first time.
-
-- At 8, my parents bought me a Sony Mavica MVC-FD71 digital camera after I stole their SLR one too many times. It could fit 10 images to a floppy disk at a 0.3MP resolution. I still have it and it still works. I've been taking photographs ever since, now with a Nikon D750, D800, and occasionally with a Mamiya 6II.
-
-- At 10, I built my first website with Microsoft FrontPage on our Pentium III [Gateway](https://en.wikipedia.org/wiki/Gateway,_Inc.). My website was terrible.
-
-- I was 11 when I built my first [Tesla Coil](https://en.wikipedia.org/wiki/Tesla_coil) (without the permission of my parents). Over the next few years, I built several more including one of the first audio modulated coils and one of the first DRSSTCs.
-
-- When I was 12, I set the all-time high record at my local laser tag facility by reverse engineering the charging station and weapon protocols with a photo-resistor, micro-cassette recorder, and a lot of patience. I was unstoppable.
-
-- At 13, I went to space camp and fell in love. I went back two more times and promised myself that I'd work in space. I've since helped build three generations of satellites and have tangentially worked on two more.
-
-- At 14, I was almost expelled for finding a backdoor into my high school's file server and telling everyone but the faculty members about it. Later that year, I figured out how to turn off the internet firewall by editing system registry keys. I anonymously shared my work months later.
-
-- At 16, I participated in a foreign exchange program in Dortmund, Germany. Since then, I've gone back almost every year.
-
-- 14 - 17, I played a lot of video games. My favorites included Counter Strike Source, Command and Conquer 3, Halo 2, and Age of Empires 3.
-
-- At 18, In the summer before college, my friends and I started playing <a href="https://en.wikipedia.org/wiki/Quidditch_(sport)">Muggle Quidditch</a>. We went on to start over 8 teams in the [International Quidditch Association](https://en.wikipedia.org/wiki/International_Quidditch_Association) including the [Buffalo Quidditch Society](https://www.facebook.com/buffaloquidditch/). At our height, we were ranked third in the IQA. Although I don't play anymore, you can still see pictures of me holding a broom while wearing a chess camp t-shirt on facebook.
-
-- At 19, I took my first graduate course and published my first academic paper.
-
-- At 20, I coauthored a grant to build a satellite and managed a 60+ person team through the end of undergrad. You can read more about that [here](https://ubnl.space/glados/).
-
-You can ask me in person for other stories that I'm afraid to share with the internet.
+My first computer was an old Dell tower from my father’s work which ran Windows 2000 and had almost no RAM by today’s standards. Like all children, I wanted to play computer games but could never get them to install & run properly on this machine. It took me years to understand that this business machine was not equipped with a dedicated graphics card and the early 2000s integrated graphics chips were 
+… not up to the task! As a result, I mostly got over the idea of gaming and grew up without much of it in my life. 
 <br><br>
+
+The lack of games did not get in the way of my fascination with this computer, however. I have fond memories of the paper-clip bot in Microsoft Office and some less fond memories of the horrific personal websites and videos I made using Windows Movie Maker, Microsoft Front-page and Adobe Dreamweaver. You won’t find those published here, of course; the internet has enough poor websites that I don’t feel the need to contribute any more. 
+<br><br>
+
+In high-school we had to take foreign language classes and I found that I really enjoyed German (couldn’t say the same about French class, unfortunately). I kept this up right through school and went on a school exchange to Hamburg. Later on my efforts were rewarded and I was given the opportunity to represent NZ in the German Language Olympiad in Frankfurt, a fantastic experience where I made friends with other German-learners from all over the world (who have been great hosts as I visit them on my travels!). 
+<br><br>
+
+Throughout high-school I kept myself busy developing websites for a few local businesses (a small local museum and a curtain shop, from memory). You can imagine my relief years later when I checked to make sure these websites had been replaced (by actual web developers), never to be seen again! My first foray into web applications occurred when I built a time-sheeting application for a family member using my new PHP skills which I learned at school. The only good thing about the application was that it was relatively secure; there were no plain text passwords anywhere and I had counter-measures in place for SQL-injection attacks. But needless to say, it wasn’t bug-free and on one occasion some people were paid incorrectly! That was my brutal introduction to the idea of software testing. And for the record, I haven’t touched PHP since….. 
+<br><br>
+
+Following school I shifted down to Wellington to pursue Software Engineering at Vic with a side of German (where I had spare time). I certainly wasn’t the perfect student and particularly near the start of my degree struggled a bit, getting to the point of failing an important mandatory course at the end of my first year. Faced with the prospect of waiting an entire year to repeat that course, I had to reevaluate whether this was the right path for me. Failing that course helped to clarify my vision and motivation. I decided I was up for the challenge and might as well go hard or go home (literally). The rest of my studies were not easy and countless late nights were had, but they were very rewarding and worthwhile and I never looked back. 
+<br><br>
+
 #### I like
-- Skiing
-- Sailing and the sea
-- Space
-- Summer
-- [Books](https://www.goodreads.com/mdangelo)
-- Colored pencils (Faber-Castell Polychromos)
-- Podcasts ([Planet Money](https://www.npr.org/sections/money/), [The Indicator](https://www.npr.org/podcasts/510325/the-indicator-from-planet-money), [99% Invisible](https://99percentinvisible.org/episodes/), [The Economist](http://radio.economist.com/), [Radiolab](https://www.wnycstudios.org/shows/radiolab), [Hidden Brain](https://www.npr.org/series/423302056/hidden-brain), [Inquiring Minds](https://inquiring.show), and others)
-- [Good design](/)
-- [Photography](https://instagram.com/dangelosaurus)
+
+- Cars
+- German(y)
+- German Cars
+- Cooking & eating
+- Apple products
+- Home automation
+- The Internet of Things
+- Open Source
 
 #### Travel / Geography
 
-- I am from originally from Buffalo, New York. I have since lived in
-Palo Alto, Mountain View, San Francisco, Seattle, and New York.
+- I grew up north of Auckland but studied and lived in Wellington for 6 years.
 
-- I've been to ~ 50 countries, some of which I have forgotten, and many of which I would like to revisit.
+- I am a keen & intrepid traveller. When possible, I’ve got Japan on my bucket-list, as well as a few other parts of Europe like Lithuania and the Czech Republic (I want to visit the Škoda factory where my car was assembled).
 
-- In 2016, I visited: Canada, Ethiopia, Austria, Germany, Belgium, Ireland, Northern Ireland, Italy, Romania, Sweden, Norway, Svalbard, Panama, Costa Rica, Uganda, Japan, and the UAE, mostly in that order.
+- In early 2020 I travelled through the United Arab Emirates, Kenya, and South Africa.
 
-- In 2017, I visited: Canada, Japan, Denmark, Germany, Sweden, Estonia, Russia, the Netherlands, Belgium, the U.K., Spain, Iceland, France, Switzerland, Ethiopia, and Luxembourg.
+- In 2017 I travelled through Singapore, Malaysia, Thailand and Cambodia. 
 
-- In 2018, I visited: Canada, France, Italy, Israel, and the U.K.
+- In 2014 I travelled to Europe, with a lot of that time in Germany & the UK.
 
-- In 2019, I visited: Canada, England, France, and Switzerland. I plan to visit:  Norway.
-
-- I am an Oregon Trail II enthusiast.
-
-#### Fun facts
+<!-- #### Fun facts
 
 - I have a list of thousands of ideas, like creating matching bow ties for cats and humans.
 - I almost always have a sketchbook with me.
@@ -83,4 +62,4 @@ Palo Alto, Mountain View, San Francisco, Seattle, and New York.
 - always finding inspiration.
 - enabling a brighter future.
 - doing better.
-- no one checking my commit history for early drafts of this file.
+- no one checking my commit history for early drafts of this file. -->
