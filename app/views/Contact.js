@@ -18,8 +18,8 @@ const Contact = () => {
           </div>
         </header>
         <div className="email-at">
-          <p>Feel free to get in touch. You can email me at: </p>
-          <a href="mailto:andrew@mgt.co.nz">andrew@mgt.co.nz</a>
+          <p>Feel free to get in touch.</p>
+          <p> You can email me at: <a href="mailto:andrew@mgt.co.nz">andrew@mgt.co.nz</a></p>
         </div>
         <ul className="icons">
           {data.map((s) => (
