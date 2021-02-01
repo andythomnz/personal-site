@@ -38,6 +38,10 @@
 	}
 
 	.jobs-container {
+		display: flex;
+		flex-wrap: wrap;
+		align-items: flex-start;
+		margin-top: 35px;
 		.points {
 			li {
 				margin: 0;
@@ -45,7 +49,22 @@
 					font-size: .9em;
 			}
 		}
+		.job-logo {
+			margin-left: 20px;
+			margin-right: 20px;
+			margin-bottom: 10px;
+			img {
+				width: 80px;
+				height: 80px;
+				display: block;
+			}
+		}
+		@media only screen and (max-width: 760px) {
+			justify-content: center;
+			text-align: center;
+		  }
 	}
+
 
 	.certifications {
 		.title {

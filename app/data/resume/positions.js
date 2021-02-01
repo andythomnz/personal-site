@@ -2,6 +2,7 @@ const positions = [{
   company: 'APLYID',
   position: 'Software Engineer',
   link: 'https://www.aplyid.com/',
+  image: 'APLYiD.jpeg',
   daterange: 'November 2020 - Present',
   points: [
     'Full-stack web application development.',
@@ -14,6 +15,7 @@ const positions = [{
   company: 'DXC Technology',
   position: 'Operations Scheduling Engineer',
   link: 'https://dxc.technology',
+  image: 'DXC.png',
   daterange: 'Feb 2020 - November 2020',
   points: [
     'Streamlining and automation of operational activities.',
@@ -26,6 +28,7 @@ const positions = [{
   company: 'Department of Conservation',
   position: 'Software Developer Intern',
   link: 'https://www.doc.govt.nz/',
+  image: 'DOC.jpeg',
   daterange: 'Nov 2018 - Mar 2019',
   points: [
     'Full-stack development using Amazon Web Services.',
@@ -37,6 +40,7 @@ const positions = [{
   company: 'Private Tutor',
   position: 'German Language & Digital Technologies',
   link: '',
+  image: 'Tutor.jpeg',
   daterange: 'Oct 2015 - Nov 2018',
   points: [
     'Gave targeted lessons to both individuals and groups of students.',
@@ -46,6 +50,7 @@ const positions = [{
   company: 'New Zealand Electoral Commission',
   position: 'Vote Issuing Officer',
   link: 'https://elections.nz/',
+  image: 'Elections.png',
   daterange: 'Sep 2017',
   points: [
     'Accurately issued special votes following a detailed written manual.',
@@ -56,6 +61,7 @@ const positions = [{
   company: 'Auckland City BMW / Auckland MINI Garage',
   position: 'Vehicle Groomer',
   link: 'https://www.aucklandcitybmw.com/',
+  image: 'BMW.png',
   daterange: 'Dec 2015 – Jun 2018',
   points: [
     'Responsible for showroom appearance, with high attention to detail.',
