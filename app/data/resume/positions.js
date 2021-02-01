@@ -6,7 +6,7 @@ const positions = [{
   daterange: 'November 2020 - Present',
   points: [
     'Full-stack web application development.',
-    'Ruby on Rails and Postgres backend.',
+    'Ruby on Rails.',
     'Angular and Vue.js frontend.',
     'Test automation using RSpec, Capybara & Selenium.',
     'Test Driven Development.',
@@ -51,7 +51,7 @@ const positions = [{
   position: 'Vote Issuing Officer',
   link: 'https://elections.nz/',
   image: 'Elections.png',
-  daterange: 'Sep 2017',
+  daterange: 'Sep 2017 & Oct 2020',
   points: [
     'Accurately issued special votes following a detailed written manual.',
     'Provided excellent and impartial customer service to the public.',
