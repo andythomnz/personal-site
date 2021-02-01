@@ -2,17 +2,24 @@ import React from 'react';
 import PropTypes from 'prop-types';
 
 const Job = ({ data }) => (
-  <article className="jobs-container">
-    <header>
-      <h4><a href={data.link}>{data.company}</a> - {data.position}</h4>
-      <p className="daterange"> {data.daterange}</p>
-    </header>
-    <ul className="points">
-      {data.points.map((point) => (
-        <li key={point}>{point}</li>
-      ))}
-    </ul>
-  </article>
+  <div className="jobs-container">
+    <div class="job-logo">
+      <a href={data.link} target='_blank'>
+        <img src={`${BASE_PATH}/images/jobs/${data.image}`} alt={data.company} />
+      </a>
+    </div>
+    <div class="job-content">
+      <header>
+        <h4><a href={data.link} target='_blank'>{data.company}</a> - {data.position}</h4>
+        <p className="daterange"> {data.daterange}</p>
+      </header>
+      <ul className="points">
+        {data.points.map((point) => (
+          <li key={point}>{point}</li>
+        ))}
+      </ul>
+    </div>
+  </div>
 );
 
 Job.propTypes = {
