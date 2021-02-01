@@ -43,6 +43,11 @@ const Nav = () => (
           </li>
         ))}
       </ul>
+      <div className="blurb icons">
+        <p><a href="https://github.com/mldangelo/personal-site" target="_blank">Modified</a> with ☕️ and ❤️ <br></br>
+        Built and deployed automatically by GitHub Actions 🤖 🦾 <br></br>
+        Hosted by Firebase 🔥 🌎 <br></br></p>
+      </div>
       <p className="copyright">&copy; Andrew Thompson <Link to="/">mgt.co.nz</Link>.</p>
     </section>
   </section>
